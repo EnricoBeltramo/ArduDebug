@@ -1,6 +1,6 @@
 # ArduDebug
 
-## A real-time Arduino degubber
+## A real-time Arduino debugger
 
 How any SW developer know, to have a good tool to debug the SW is a very helpful utility. Unfortunately the base Arduino IDE haven’t much utility to debug your sketch. In order to improve that I created a tool that allow, by the USB, to see (and modify) at runtime the SW variables while the program is running on the Arduino board.
 
