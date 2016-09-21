@@ -13,3 +13,6 @@ https://github.com/EnricoBeltramo/ArduDebug/tree/master/Arduino
 
 - A graphical user interface to run to PC connected to Arduino by USB:
 https://github.com/EnricoBeltramo/ArduDebug/tree/master/PC%20interface/Binaries
+
+A detailed description of how it works can be found at:
+http://www.instructables.com/id/Arduino-Real-time-Variables-Debugger/
