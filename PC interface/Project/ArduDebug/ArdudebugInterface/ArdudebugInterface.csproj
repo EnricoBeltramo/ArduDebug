@@ -52,12 +52,6 @@
     <Compile Include="clsConfiguration.cs" />
     <Compile Include="clsParser.cs" />
     <Compile Include="clsVariableInfo.cs" />
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
     <Compile Include="FormAddVarView.cs">
       <SubType>Form</SubType>
     </Compile>
