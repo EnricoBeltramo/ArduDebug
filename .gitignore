@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# User-specific files
+*.suo
+
+/PC interface/Project/ArduDebug/ArdudebugInterface/bin
+/PC interface/Project/ArduDebug/ArdudebugInterface/obj
+/PC interface/Project/ArduDebug/GraphDisplay/GraphLib/bin
+/PC interface/Project/ArduDebug/GraphDisplay/GraphLib/obj

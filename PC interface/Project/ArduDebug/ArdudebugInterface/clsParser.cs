@@ -22,9 +22,9 @@ namespace ArduDebugInterface
             {
                 string FolderPref = Path.GetDirectoryName(clsConfiguration.ArduinoPrefFile);
 
-                if (!File.Exists(FolderPref + "\\Preference.backup.txt"))
+                if (!File.Exists(FolderPref + "\\Preferences.backup.txt"))
                 {
-                    File.Copy(clsConfiguration.ArduinoPrefFile, FolderPref + "\\Preference.backup.txt");
+                    File.Copy(clsConfiguration.ArduinoPrefFile, FolderPref + "\\Preferences.backup.txt");
                 }
 
                 string[] lines = File.ReadAllLines(clsConfiguration.ArduinoPrefFile);
